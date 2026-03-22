@@ -65,7 +65,7 @@ function StepsPage() {
         <div className="steps">
           <div className="step-card">
             <span className="step-number">01</span>
-            <h2>Push je code</h2>
+            <h2>Push je code naar Github</h2>
             <p>
               Zet je project op GitHub zodat Vercel je repository kan importeren.
             </p>
